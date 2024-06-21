@@ -10,7 +10,6 @@ To run this project, you need to have Python installed on your machine. Addition
 3. geopandas
 4. pandas
 5. matplotlib
-6. scikit-learn
 You can install these libraries via pip:
 
 **Usage**
@@ -37,8 +36,7 @@ You can install these libraries via pip:
 4. geopandas
 5. pandas
 6. matplotlib
-7. scikit-learn
-8. Jupyter Notebook (Optional) (For best visualization of generated datasets)
+7. Jupyter Notebook (Optional) (For best visualization of generated datasets)
 
    
 **Credits**
