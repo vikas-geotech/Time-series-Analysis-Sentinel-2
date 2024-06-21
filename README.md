@@ -1,4 +1,4 @@
-**#Vegetation Indices time-series analysis using Sentinel-2 satellite imagery**
+**Vegetation Indices time-series analysis using Sentinel-2 satellite imagery**
 This project utilizes Google Earth Engine (GEE) to analyze Sentinel-2 satellite imagery within a specified region of interest. It calculates and visualizes Normalized Difference Vegetation Index (NDVI) and Enhanced Vegetation Index (EVI) over a defined time period. Additionally, it demonstrates exporting the calculated indices as CSV files and performing basic machine learning prediction on the NDVI time series. This code doesn't require the satellite images to download which can be run on cloud to get output and statistics in a bit which saves time and help to manage the datasets. In this code, I am using preprocessed data which doesn't require band stacking, mosaicking. If you want to download the image also later we can add the code for downloading also. After running the code, you will see the Web map where you can visualize the results and stats also. There you will get option to turn on & off the datasets for better experience in visualization.
 
 **Setup**
